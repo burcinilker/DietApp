@@ -154,7 +154,7 @@ namespace DietApp
 
         #endregion
 
-        #region Events
+        #region Eventss
 
         private void btnDeleteDiet_Click(object sender, EventArgs e)
         {
